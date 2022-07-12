@@ -7,9 +7,14 @@
 ## Results
 
 How is the district summary affected?
-	we can see from both the screenshots that after removing the Thomas High School scores,
+  we can see from both the screenshots that after removing the Thomas High School scores,
 
+ ![Chart](./dist_before.png)
+ ![Chart](./dist_after.png)
+	
 How is the school summary affected?
+![Chart](./school_before.png)
+![Chart](./school_after.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   AS we can see from the above screenshots, replacing the ninth graders' scores with NaNs increased the percentages overall.
@@ -20,12 +25,15 @@ How does replacing the ninth-grade scores affect the following:
 
 ### Scores by school spending
     If we look at spending ranges(per student), the scores are unaffected by the change in the 9th grade scores.
+     ![Chart](./by_spending.png)
     
 ### Scores by school size
    If we go by the school size, the scores are unaffected by the change in the 9th grade scores.
+    ![Chart](./by_size.png)
 
 ### Scores by school type
    By looking at the types of the school - Distict / Charter - the scores remained unchanged.
+    ![Chart](./by_type.png)
 
 
 ## Summary
