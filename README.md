@@ -7,6 +7,7 @@
 ## Results
 
 How is the district summary affected?
+
   we can see from both the screenshots that after removing the Thomas High School scores,
 
  ![Chart](./dist_before.png)
