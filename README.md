@@ -8,7 +8,7 @@
 
 How is the district summary affected?
 
-  we can see from both the screenshots that after removing the Thomas High School scores,
+  we can see from both the screenshots that after removing the Thomas High School scores, passing math, reading and overall percentages have changed.
 
  ![Chart](./dist_before.png)
  ![Chart](./dist_after.png)
