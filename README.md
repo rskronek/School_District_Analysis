@@ -14,8 +14,8 @@ How is the district summary affected?
  ![Chart](./dist_after.png)
 	
 How is the school summary affected?
-![Chart](./school_before.png)
-![Chart](./school_after.png)
+![Chart](./School_before.png)
+![Chart](./School_after.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   AS we can see from the above screenshots, replacing the ninth graders' scores with NaNs increased the percentages overall.
